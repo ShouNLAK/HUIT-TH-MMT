@@ -44,6 +44,7 @@ HUIT-TH-LTHDT/
 ## 📚 Nội dung tuần học
 ### Tuần 1 :
 > Làm quen với VMWare Workstation Pro 17 (Hướng dẫn cài đặt máy ảo, kết nối mạng,...)
+> 
 > Làm quen với Cisco Packet Tracer
 
 ### Tuần 2 :
